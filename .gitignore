@@ -1,0 +1,53 @@
+# IDE settings
+.idea/
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs and debugging files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript build artifacts and cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional ESLint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Encore generated files and directories
+.encore/
+encore.gen/
+encore.gen.go
+encore.gen.cue
+
+# Project-specific files
+*.db
+
+# General cache directories
+.cache
+.parcel-cache
+/.encore
+/encore.gen
