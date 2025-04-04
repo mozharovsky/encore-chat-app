@@ -9,7 +9,8 @@ When trying to use types imported from the Vercel AI SDK (`ai` package) in Encor
 ## Steps to Reproduce
 
 1. Clone this repository
-2. Run `encore run` to see the error
+2. Run `bun i` to install dependencies
+3. Run `encore run` to see the error
 
 ## Error Details
 
