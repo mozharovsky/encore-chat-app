@@ -6,6 +6,8 @@ This repository demonstrates an issue with using Vercel AI SDK types in Encore A
 
 When trying to use types imported from the Vercel AI SDK (`ai` package) in Encore API request or response schemas, the Encore parser fails with "object not found" errors.
 
+This issue has been reported in [Encore GitHub repository issue #1852](https://github.com/encoredev/encore/issues/1852).
+
 ## Steps to Reproduce
 
 1. Clone this repository
